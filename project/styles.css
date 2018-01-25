@@ -1,0 +1,16 @@
+#demo-let > div {
+	height: 100px;
+	width: 100px;
+	float: left;
+	margin: 3px;
+	margin-bottom: 30px;
+	background-color: green;
+}
+
+header h2{
+	font-size: 30px;
+	margin: 10px;
+	/*text-align: center;*/
+	clear: both;
+	color: #0033FF;
+}
